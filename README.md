@@ -1,4 +1,3 @@
 # Workshop Attendees
 
-Aaishika S Bhattacharya 
-first commit
+Aaishika S Bhattacharya (Instructor)
